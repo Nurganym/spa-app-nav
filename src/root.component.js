@@ -17,7 +17,7 @@ export default function Root() {
         </Link>
         <Link to="/page3" className="link">
         <Typography variant="h6" color="inherit" component="div">
-        Важно
+        Мой день 
     </Typography>
         </Link>
         <Link to="/page2" className="link">
